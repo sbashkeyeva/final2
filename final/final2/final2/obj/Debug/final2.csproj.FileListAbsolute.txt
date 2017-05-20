@@ -1,0 +1,9 @@
+C:\final\final2\final2\bin\Debug\final2.exe.config
+C:\final\final2\final2\obj\Debug\final2.Form1.resources
+C:\final\final2\final2\obj\Debug\final2.Properties.Resources.resources
+C:\final\final2\final2\obj\Debug\final2.csproj.GenerateResource.Cache
+C:\final\final2\final2\bin\Debug\final2.exe
+C:\final\final2\final2\bin\Debug\final2.pdb
+C:\final\final2\final2\obj\Debug\final2.exe
+C:\final\final2\final2\obj\Debug\final2.pdb
+C:\final\final2\final2\obj\Debug\final2.csprojResolveAssemblyReference.cache
