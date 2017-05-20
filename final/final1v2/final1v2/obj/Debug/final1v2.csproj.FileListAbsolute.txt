@@ -1,0 +1,5 @@
+C:\final\final1v2\final1v2\bin\Debug\final1v2.exe.config
+C:\final\final1v2\final1v2\bin\Debug\final1v2.exe
+C:\final\final1v2\final1v2\bin\Debug\final1v2.pdb
+C:\final\final1v2\final1v2\obj\Debug\final1v2.exe
+C:\final\final1v2\final1v2\obj\Debug\final1v2.pdb

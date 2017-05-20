@@ -1,1 +1,8 @@
 C:\final\final1\final1\bin\Debug\final1.exe.config
+C:\final\final1\final1\bin\Debug\final1.exe
+C:\final\final1\final1\bin\Debug\final1.pdb
+C:\final\final1\final1\obj\Debug\final1.Form1.resources
+C:\final\final1\final1\obj\Debug\final1.Properties.Resources.resources
+C:\final\final1\final1\obj\Debug\final1.csproj.GenerateResource.Cache
+C:\final\final1\final1\obj\Debug\final1.exe
+C:\final\final1\final1\obj\Debug\final1.pdb
